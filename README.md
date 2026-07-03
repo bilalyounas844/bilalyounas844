@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
+<h1 align="center">Hi, I'm Muhammad Bilal</h1>
 
 <h3 align="center">
 Senior Software Quality Assurance Engineer | Automation Engineer | Data QA | Python | Selenium | Azure
